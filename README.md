@@ -20,5 +20,8 @@ Tools yang Digunakan:
 Repository ini berisi dokumen Project Management Plan dan
 materi presentasi proyek TipTipIn.
 
+## Presentasi Proyek
+🔗 https://youtu.be/cmQRAn7oXTg
+
 ## Website Proyek
 🔗 https://tiptipin7.wordpress.com/
