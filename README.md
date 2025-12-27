@@ -21,7 +21,7 @@ Repository ini berisi dokumen Project Management Plan dan
 materi presentasi proyek TipTipIn.
 
 ## Presentasi Proyek
-🔗 https://youtu.be/cmQRAn7oXTg
+🔗 https://youtu.be/3zi6H5y1rhU?si=fsPZZkUUSUJH9_sa
 
 ## Website Proyek
 🔗 https://tiptipin7.wordpress.com/
