@@ -1,2 +1,21 @@
-# TipTipIn-Project-Management-Plan
-Project Management Plan – TipTipIn
+# Project Management Plan – TipTipIn
+
+Nama Proyek: TipTipIn  
+Jenis Proyek: Layanan Jasa Titip Berbasis Jalur Laut  
+
+Tujuan Proyek:  
+Mengembangkan perencanaan proyek untuk layanan jasa titip antarpulau
+yang terstruktur, terjadwal, dan terdokumentasi secara profesional.
+
+Platform Aplikasi:  
+Website berbasis WordPress
+
+Tools yang Digunakan:
+- Microsoft Word
+- Microsoft Project / Gantt Chart
+- PowerPoint
+- WordPress
+- GitHub
+
+Repository ini berisi dokumen Project Management Plan dan
+materi presentasi proyek TipTipIn.
